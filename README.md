@@ -1,3 +1,5 @@
+-I'm a Husband, Father to a pupper, New Developer, and Student!!!
+
 - 👋 Hi, My name is Michael Martinez
 - 👀 I’m interested in coding and I hope to create my very first app one day.
 - 🌱 I’m currently learning just about everything to do with coding 🤣
@@ -10,4 +12,4 @@ Connect with me:
 YouTubecodeStatikman619 | TwitterStatikman619 | LinkedInmichael-martinez-0863591b8 | InstagramStatikman619
 
 Languages and Tools:
-Visual Studio CodeHTML5CSSJavaScriptNode.jsGitHubTerminal
+-Visual Studio Code -HTML5 -CSS -JavaScript -Node.js -Terminal
