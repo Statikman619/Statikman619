@@ -9,7 +9,7 @@
 - 📫 How to reach me martinez.michael02@gmail.com
 
 Connect with me:
-YouTube -Statikman619 | Twitter -@Statikman619 | LinkedIn -michael-martinez-0863591b8 | Instagram -@Statikman619
+YouTube -Statikman619 | Twitter -@Statikman619 | LinkedIn www.linkedin.com/in/michael-martinez-07171991 | Instagram -@Statikman619
 
 Languages and Tools:
 -Visual Studio Code -HTML5 -CSS -JavaScript -Node.js -OOP -Express -Mysql -ORM -MVC
